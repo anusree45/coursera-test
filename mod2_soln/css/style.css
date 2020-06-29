@@ -79,11 +79,17 @@ p {
 	border: 1px solid black;
 	position: relative;
 	text-align: center;
-	background-color: crimson;
 	font-size: 19px;
 }
-
-
+#butter-cake {
+	background-color: gold;
+}
+#pound-cake {
+	background-color: saddlebrown;
+}
+#red-velvet {
+	background-color: crimson;
+}
 
 
 
